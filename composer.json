@@ -1,0 +1,18 @@
+{
+    "name": "squintal/phpunit",
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        }
+    },
+    "authors": [
+        {
+            "name": "squintal73",
+            "email": "sidnei_quintal@yahoo.com.br"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
